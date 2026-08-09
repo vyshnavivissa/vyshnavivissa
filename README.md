@@ -11,7 +11,7 @@
 
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
 Experienced in building AI-powered software applications, backend architectures, and scalable cloud solutions. Specialized in **Generative AI**, **Agentic Workflows**, **RAG systems**, and end-to-end **MLOps deployment** on AWS.
 
@@ -21,7 +21,7 @@ Experienced in building AI-powered software applications, backend architectures,
 
 ---
 
-## Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
 ### **AI & Generative AI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -48,56 +48,24 @@ Experienced in building AI-powered software applications, backend architectures,
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
 | **AI Adaptive Interview Platform** | `LangGraph` `FastAPI` `AWS ECS` `WebRTC` `Redis` | Autonomous technical & behavioral interview platform with real-time STT/TTS, WebRTC proctoring, and automated ATS scoring. |
 | **Multimodal Visual Search Engine** | `CLIP` `FAISS` `RAG` `LLMs` | Image and text discovery engine featuring low-latency vector retrieval and semantic RAG query expansion. |
+| **AI-Powered Meeting Intelligence System** | `Python` `FastAPI` `React` `PostgreSQL` `Groq` | Meeting intelligence platform to automate summarization, key takeaway extraction, and action-item tracking using LLMs. |
+| **Requirement to Entity Extractor** | `Python` `NLP` `LLMs` `Information Extraction` | Automated NLP pipeline that parses unstructured software requirement documents and extracts core entities, domain concepts, and dependencies. |
+| **YouTube Comments Analyser** | `Python` `MLOps` `NLP` `CI/CD` `Docker` | Production-ready MLOps pipeline for large-scale sentiment and topic analysis on YouTube comment datasets with automated model tracking. |
+| **AI Visual Search & Product Discovery** | `Python` `Computer Vision` `Embeddings` `HTML/JS` | Multimodal product discovery engine enabling users to search items visually using similarity embeddings and vector indexing. |
+| **SocialMediaAI** | `Python` `GenAI` `LLMs` `Prompt Engineering` | Generative AI assistant designed to generate, schedule, and optimize tailored content strategies across digital platforms. |
 
 ---
 
-### AI-Powered Meeting Intelligence System
-* **Tech Stack:** Python, FastAPI, React, PostgreSQL, OpenAI API, Groq
-* Developed an end-to-end meeting intelligence platform to automate meeting summarization, key takeaway extraction, and action-item tracking using Large Language Models (LLMs).
-* Built a high-throughput backend architecture with FastAPI and PostgreSQL, enabling real-time transcript processing and seamless response generation.
-
----
-
-### AI-Powered Visual Search & Product Discovery Engine
-* **Tech Stack:** Python, Computer Vision, Embeddings, HTML/JS
-* Built a multimodal product search engine enabling users to discover relevant items using visual query inputs and similarity embeddings.
-* Leveraged vector indexing and feature extraction to optimize cross-modal search efficiency and match precision.
-
----
-
-### Requirement to Entity Extractor
-* **Tech Stack:** Python, NLP, LLMs, Information Extraction
-* Designed an automated NLP pipeline that parses unstructured functional/technical requirement documents and extracts core entities, domain concepts, and dependencies.
-* Streamlined system analysis workflows by converting natural language requirements into structured data representations for downstream system design.
-
----
-
-###  YouTube Comments Analyser (MLOps End-to-End Pipeline)
-* **Tech Stack:** Python, MLOps, NLP, Sentiment Analysis, CI/CD
-* Architected a production-ready sentiment and topic analysis pipeline for large-scale YouTube comment datasets.
-* Implemented MLOps practices, including automated model tracking, modular data ingestion pipelines, and continuous deployment workflows to maintain model accuracy and system reliability.
-
----
-
-### SocialMediaAI
-* **Tech Stack:** Python, GenAI, Prompt Engineering
-* Created an AI assistant designed to generate, schedule, and optimize tailored content strategies across digital platforms using generative models.
-
----
-
-##  Work Experience
+## 💼 Work Experience
 
 **AI Engineer Intern** @ *Arah InfoTech*
 - Built real-time voice and chat agents using LangChain, LangGraph, and LLMs.
 - Engineered WebRTC proctoring mechanisms with face detection and audio monitoring.
 - Scaled background evaluation workflows using Celery and Redis.
 - Containerized applications using Docker and deployed on AWS ECS, ECR, S3, and ALB.
-
----
-</div>
