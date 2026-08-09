@@ -11,7 +11,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 Experienced in building AI-powered software applications, backend architectures, and scalable cloud solutions. Specialized in **Generative AI**, **Agentic Workflows**, **RAG systems**, and end-to-end **MLOps deployment** on AWS.
 
@@ -21,7 +21,7 @@ Experienced in building AI-powered software applications, backend architectures,
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### **AI & Generative AI**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -48,7 +48,7 @@ Experienced in building AI-powered software applications, backend architectures,
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ Experienced in building AI-powered software applications, backend architectures,
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **AI Engineer Intern** @ *Arah InfoTech*
 - Built real-time voice and chat agents using LangChain, LangGraph, and LLMs.
