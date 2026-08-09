@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Vyshnavi Sai Sri Vissa 
-### AI / ML Engineer & Backend Developer
+### AI / ML Engineer & Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshnavi-vissa-47b2952a0/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=react&logoColor=61DAFB)](https://vyshnavivissa.github.io/portfolio.io/)
