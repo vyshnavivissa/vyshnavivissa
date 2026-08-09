@@ -57,6 +57,40 @@ Experienced in building AI-powered software applications, backend architectures,
 
 ---
 
+### AI-Powered Meeting Intelligence System
+* **Tech Stack:** Python, FastAPI, React, PostgreSQL, OpenAI API, Groq
+* Developed an end-to-end meeting intelligence platform to automate meeting summarization, key takeaway extraction, and action-item tracking using Large Language Models (LLMs).
+* Built a high-throughput backend architecture with FastAPI and PostgreSQL, enabling real-time transcript processing and seamless response generation.
+
+---
+
+### AI-Powered Visual Search & Product Discovery Engine
+* **Tech Stack:** Python, Computer Vision, Embeddings, HTML/JS
+* Built a multimodal product search engine enabling users to discover relevant items using visual query inputs and similarity embeddings.
+* Leveraged vector indexing and feature extraction to optimize cross-modal search efficiency and match precision.
+
+---
+
+### Requirement to Entity Extractor
+* **Tech Stack:** Python, NLP, LLMs, Information Extraction
+* Designed an automated NLP pipeline that parses unstructured functional/technical requirement documents and extracts core entities, domain concepts, and dependencies.
+* Streamlined system analysis workflows by converting natural language requirements into structured data representations for downstream system design.
+
+---
+
+###  YouTube Comments Analyser (MLOps End-to-End Pipeline)
+* **Tech Stack:** Python, MLOps, NLP, Sentiment Analysis, CI/CD
+* Architected a production-ready sentiment and topic analysis pipeline for large-scale YouTube comment datasets.
+* Implemented MLOps practices, including automated model tracking, modular data ingestion pipelines, and continuous deployment workflows to maintain model accuracy and system reliability.
+
+---
+
+### SocialMediaAI
+* **Tech Stack:** Python, GenAI, Prompt Engineering
+* Created an AI assistant designed to generate, schedule, and optimize tailored content strategies across digital platforms using generative models.
+
+---
+
 ##  Work Experience
 
 **AI Engineer Intern** @ *Arah InfoTech*
