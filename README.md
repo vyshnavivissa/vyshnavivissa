@@ -63,15 +63,15 @@ AI/ML Engineer with hands-on experience in **machine learning**, **computer visi
 | **[Multi-Agent Social Media Content Generation](https://github.com/vyshnavivissa/SocialMediaAI)** ([Demo](http://socialmedia-ai-alb-1323569086.us-east-1.elb.amazonaws.com)) | `LangGraph` `Django` `React` `Celery` `AWS ECS` | Full-stack platform that generates, revises, and schedules content for Twitter, Instagram, LinkedIn, and Facebook using multi-agent workflows. |
 | **[AI Adaptive Interview Platform](https://github.com/OragantiSagar041/AI_Adaptive_Interview)** | `LangGraph` `FastAPI` `AWS ECS` `WebRTC` `Redis` | Autonomous interview platform with real-time STT/TTS, WebRTC proctoring, and a Docker sandbox for code evaluation. |
 | **CollusionIQ** | `Python` `Isolation Forest` `K-Means` `Anomaly Detection` | Behavioural fraud detection for Procure-to-Pay workflows using a six-model ensemble and a Human-in-the-Loop review feedback loop. |
-| **AI-Powered Meeting Intelligence System** | `Python` `FastAPI` `React` `PostgreSQL` `Groq` | Automates meeting summarization, key takeaway extraction, and action-item tracking using LLMs. |
-| **Requirement to Entity Extractor** | `Python` `NLP` `LLMs` `Information Extraction` | NLP pipeline that parses unstructured software requirement documents and extracts entities, domain concepts, and dependencies. |
-| **YouTube Comments Analyser** | `Python` `MLOps` `NLP` `CI/CD` `Docker` | MLOps pipeline for sentiment and topic analysis on YouTube comment datasets with automated model tracking. |
+| **[AI-Powered Meeting Intelligence System](https://github.com/vyshnavivissa/AI-Powered-Meeting-Intelligence-System)** | `Python` `FastAPI` `React` `PostgreSQL` `Groq` | Automates meeting summarization, key takeaway extraction, and action-item tracking using LLMs. |
+| **[Requirement to Entity Extractor](https://github.com/vyshnavivissa/Requirement-to-Entity-Extractor)** | `Python` `NLP` `LLMs` `Information Extraction` | NLP pipeline that parses unstructured software requirement documents and extracts entities, domain concepts, and dependencies. |
+| **[YouTube Comments Analyser](https://github.com/vyshnavivissa/youtube_comments_analyser_MLOPS_End_to_end_pipeline)** | `Python` `MLOps` `NLP` `CI/CD` `Docker` | MLOps pipeline for sentiment and topic analysis on YouTube comment datasets with automated model tracking. |
 
 ---
 
 ## Work Experience
 
-**AI Engineer** @ *SecuAI Solutions Pvt. Ltd.(Thub)* | Oct 2026 - Nov 2026
+**AI/ML Engineer** @ *SecuAI Solutions Pvt. Ltd.(Thub)* | Oct 2026 - Nov 2026
 - Develop behavioural fraud analytics for the Procure-to-Pay (P2P) cycle to detect suspicious patterns and collusive activity.
 - Support a Human-in-the-Loop workflow where analyst decisions on model alerts feed back into detection before enforcement.
 
